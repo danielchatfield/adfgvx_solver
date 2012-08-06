@@ -1,0 +1,35 @@
+Online encyclopaedia Wikipedia was knocked offline on Monday thanks to two accidentally cut cables near a data centre in Florida.
+
+The site, and various associated services, were inaccessible or extremely sluggish for over two hours beginning at around 1430 BST on Monday.
+
+A status web page showed various parts of the Wikimedia network as suffering performance issues.
+
+Wikipedia ruled out any suggestion of malicious intent being behind problem.
+
+The two cables, which stretched between Tampa and Virginia, were broken for an hour and six minutes, the site said.
+
+'Patched up'
+After the cables were repaired, it took another hour for basic service on Wikipedia to be restored.
+
+Its mobile site appeared to unaffected, although the service's API - application programming interface - continued to suffer problems even when the main site had been restored.
+
+David Gerard, a UK spokesman for the Wikimedia Foundation - the charity which owns Wikipedia and other similar sites - told the BBC that the problem had been fixed.
+
+"Things appear to have been patched up, services are being brought back and things are getting to OK now," he said.
+
+"Someone cut the cables going to the Tampa, Florida data centre. We have two big [centres], one in Florida and one in Virginia, and some network proxies in Amsterdam.
+
+"Everyone in that data centre was affected!"
+
+He said it was not yet clear what had caused the cut, or where exactly it had taken place.
+
+Donations
+Mr Gerard joked that due to the site's limited financial resources, some of its infrastructure relied on "gaffer tape and string".
+
+In an error message posted to the site, the Wikimedia Foundation reiterated its reliance on donations to fund its continued operation.
+
+"The Wikimedia Foundation is a non-profit organisation which hosts some of the most popular sites on the internet," the message read.
+
+"It has a constant need to purchase new hardware. If you would like to help, please donate."
+
+Despite its limited funding, the site is considered to have impressive reliability. Its last significant down time was deliberate - the site went "offline" for 24 hours in protest at proposed anti-piracy bills in the US.
